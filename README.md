@@ -256,7 +256,8 @@ Code
 * :tada: [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * :tada: [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
-* :tada: [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
+* :tada: [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. 
+source with paid "Turbo" service.
 * :free: [LuaStudio](http://scormpool.com/luastudio) - Cross-Platform framework/development tool for making 2D/3D games with Lua/LuaJIT, compatible iOS, Android, Mac and Windows devices.
 * :free: [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 * :tada: [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
@@ -274,6 +275,7 @@ Code
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * :tada: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
+* :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 * :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * :money_with_wings: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 * :tada: [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
